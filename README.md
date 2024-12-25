@@ -16,7 +16,16 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW8zaWZ4YjZ3a2Zsb3BsOXAzcjVnYmF6Y3dobWRlZWZqNHdvMmNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.webp">
 </a>
 
-- 🔭 I’m currently studing in Universidad Autónoma de Querétaro</a>
+- 🔭 I’m currently studing in Universidad Autónoma de Querétaro
+-
+-
+-
+-
+-
+-
+-
+- 
+- </a>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
