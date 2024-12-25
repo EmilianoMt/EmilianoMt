@@ -62,7 +62,7 @@
 - **Softwares and Tools**:
  <p align="center">
   <a align="center" href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,notion,powershell,latex" />
+   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,notion,powershell,latex,npm,nodejs" />
   </a>
  </p>
 <br>
