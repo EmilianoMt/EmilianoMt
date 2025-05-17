@@ -7,7 +7,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;Always+learning+new+things"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer+Student;Always+learning+new+things">
 </p>
 
 
@@ -32,42 +32,83 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
+
+### **Lenguajes**
 <p align="center">
-
-- **Languages**:
- <p align="center">
-  <a align="center" href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,ts" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
   </a>
- </p>
-    
-- **Front-End Development**:
- <p align="center">
-  <a align="center" href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,ts,html,css,next,tailwind" />
+  <a href="https://www.typescriptlang.org/docs/">
+    <img src="https://skillicons.dev/icons?i=ts" />
   </a>
- </p>
-<br>
-
-- **Back-End Development**:
- <p align="center">
-  <a align="center" href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=js,ts,nest,express,mysql,postgres,docker" />
-  </a>
- </p>
-<br>
-
-
-
-- **Softwares and Tools**:
- <p align="center">
-  <a align="center" href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,notion,powershell,latex,npm,nodejs" />
-  </a>
- </p>
-<br>
-
 </p>
+
+### **Desarrollo Front-End**
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://nextjs.org/docs">
+    <img src="https://skillicons.dev/icons?i=next" />
+  </a>
+  <a href="https://tailwindcss.com/docs">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+</p>
+
+### **Desarrollo Back-End**
+<p align="center">
+  <a href="https://docs.nestjs.com/">
+    <img src="https://skillicons.dev/icons?i=nest" />
+  </a>
+  <a href="https://expressjs.com/en/guide/routing.html">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+  <a href="https://dev.mysql.com/doc/">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://www.postgresql.org/docs/">
+    <img src="https://skillicons.dev/icons?i=postgres" />
+  </a>
+  <a href="https://docs.docker.com/">
+    <img src="https://skillicons.dev/icons?i=docker" />
+  </a>
+</p>
+
+### **Software y Herramientas**
+<p align="center">
+  <a href="https://git-scm.com/doc">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://docs.github.com/">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://www.figma.com/resources/">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <a href="https://code.visualstudio.com/docs">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://www.notion.so/help">
+    <img src="https://skillicons.dev/icons?i=notion" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/powershell/">
+    <img src="https://skillicons.dev/icons?i=powershell" />
+  </a>
+  <a href="https://www.latex-project.org/documentation/">
+    <img src="https://skillicons.dev/icons?i=latex" />
+  </a>
+  <a href="https://docs.npmjs.com/">
+    <img src="https://skillicons.dev/icons?i=npm" />
+  </a>
+  <a href="https://nodejs.org/en/docs/">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+</p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
