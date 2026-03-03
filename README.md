@@ -16,24 +16,21 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW8zaWZ4YjZ3a2Zsb3BsOXAzcjVnYmF6Y3dobWRlZWZqNHdvMmNvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/maNB0qAiRVAty/giphy.webp">
 </a height="300" width="400">
 
-- 🔭 I’m currently studing in Universidad Autónoma de Querétaro
--
--
--
--
--
--
--
-- 
--
-- </a>
+- I’m currently studing in Universidad Autónoma de Querétaro
+- I like to listen to music constantly. 
+- I like watching series and movies.
+- I like playing video games.
+- I enjoy quiet places.
+- I like to be constantly learning.
+- I like to take on new challenges.
+</a>
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 
-### **Lenguajes**
+### **Languajes**
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://skillicons.dev/icons?i=js" />
@@ -43,7 +40,7 @@
   </a>
 </p>
 
-### **Desarrollo Front-End**
+### **Front-End**
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" />
@@ -59,7 +56,7 @@
   </a>
 </p>
 
-### **Desarrollo Back-End**
+### **Back-End**
 <p align="center">
   <a href="https://docs.nestjs.com/">
     <img src="https://skillicons.dev/icons?i=nest" />
@@ -78,7 +75,7 @@
   </a>
 </p>
 
-### **Software y Herramientas**
+### **Software & tools**
 <p align="center">
   <a href="https://git-scm.com/doc">
     <img src="https://skillicons.dev/icons?i=git" />
