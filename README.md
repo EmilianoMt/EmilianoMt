@@ -106,6 +106,13 @@
   </a>
 </p>
 
+## <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFtdnpsdWZhYXlkaXA4a3htYTd1bDh3enZpcmV2bnFocmZwcHQzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KcnlGHBpnKnjZIuCMv/giphy.gif" width ="35"><b> Socials</b>
+<br> 
+
+[![Gmail](https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiliano.portillo1331@gmail.com)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_pm_emiliano)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliano-portillo-b08966362/)
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -122,7 +129,7 @@
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=EmilianoMt&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
    <br></br>
-   <img  alt="Donut" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoMt&layout=donut-vertical&theme=dark&hide_border=false" /> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmilianoMt&layout=donut-vertical&theme=dark&hide_border=false" /> 
   </td>
 </tr>
 </table>
